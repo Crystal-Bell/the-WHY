@@ -1,1 +1,3 @@
+Forward:
+This archive is not a prophecy. It is not a product. It is the result of a mother who reached a breaking point with the environmental and societal friction of our time. I realized that the current system was designed to extract, not to sustain. I began to map out a different way—not because I wanted to lead, but because I wanted to survive, and I wanted my children to inherit a planet that is treated with the dignity it deserves. This is a collection of constraints, protocols, and designs. They are yours to use, yours to audit, and yours to iterate upon. We were all born as inheritors of this Earth; this is simply my attempt to document how we might finally start living like it.
 # the-WHY
