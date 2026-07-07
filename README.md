@@ -96,5 +96,6 @@ Genesis Kit
 Fleet_OS (2)
 M.A.D. Core https://github.com/Crystal-Bell https://gemini.google.com/share/6505d7954c54
 Crystal Amber (Connors) Charlton D.B.A. - M.A.D.M.O.M. M.A.D.WORKSystem Charter Ect. copyright and TM 2025
+https://zenodo.org/records/21230335
 
 CC892589@GMAIL.COM CC5895909@outlook.com
