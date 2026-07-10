@@ -98,4 +98,5 @@ M.A.D. Core https://github.com/Crystal-Bell https://gemini.google.com/share/6505
 Crystal Amber (Connors) Charlton D.B.A. - M.A.D.M.O.M. M.A.D.WORKSystem Charter Ect. copyright and TM 2025
 https://zenodo.org/records/21230335
 
-CC892589@GMAIL.COM CC5895909@outlook.com
+CC892589@GMAIL.COM CC5895909@outlook.com...
+​"Provenance Statement: This system is a humanitarian resource designed to reduce environmental friction. While the protocols are open for use, the provenance of this architecture is rooted in the work of Crystal Amber Charlton. This system is intended to be distributed freely to communities in need. Any commercial entity attempting to gate-keep, license, or charge for the implementation of these protocols in a way that limits public access is contrary to the intended function of this system."
